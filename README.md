@@ -21,5 +21,32 @@
 
 
 
+### To Do 📝
+- [ ] Guia do usuário
+- [ ] Diagrama de implantação
+- [ ] Plano de testes
+- [ ] Código-fonte v2
+- [ ] Plano de testes com os resultados da execução, incluindo o cálculo das métricas. 
+
+
+### Completed ✅
+- [x] Introdução
+- [x] Informação sobre a Empresa
+- [x] Diagrama de Classes 
+- [x] Wireframes 
+- [x] Diagrama de Casos de Uso 
+- [x] Listagem de Interessados
+- [x] Objetivos Funcionais 
+
+---
+
+
+
+
+
+
+
+
+
 
 
